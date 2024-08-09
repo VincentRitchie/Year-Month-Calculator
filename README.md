@@ -1,7 +1,7 @@
 # Year-Month-Calculator
 
 <a>
-  <img src="https://github.com/VincentRitchie/Year-Month-Calculator/blob/main/Year-month%20calculator%20img.jpg" alt="Logo" width="650" />
+  <img src="https://github.com/VincentRitchie/Year-Month-Calculator/blob/main/Year-month%20calculator%20img.jpg" alt="Logo" length="600" width="650"/>
 </a>
 
 ## Table of Contents
@@ -75,7 +75,7 @@ Follow the prompts to input the desired year and month.
    - **Benefit**: Adds additional information that can be useful for planning or historical analysis.
 
 ### 8. **Output Formatting Options**
-   - **Description**: Provide options for different output formats (e.g., JSON, XML) for easier integration with other tools.
+   - **Description**: Provide options for different output formats ```(e.g., JSON, XML)``` for easier integration with other tools.
    - **Benefit**: Increases the program's versatility by allowing integration with other software systems or formats.
 
 ## Contributing
